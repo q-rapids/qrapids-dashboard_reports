@@ -19,7 +19,7 @@ To configure all, you should follow the next steps:
 
 ![import_folder](https://user-images.githubusercontent.com/48628943/85055516-f8c71580-b19d-11ea-8bf3-8e3e17991aa6.png)
 
-* **Step 3**. In _Project Explorer_ tab (inside of _Reports code_), you need to open _QRapids Data Adapters_ folder and update all **xml** files. Write the correct datasource url, especifing the connection to the corresponding ([dashboard RESTful service](https://q-rapids.github.io/qrapids-dashboard/) providing the data you want to use in the report.
+* **Step 3**. In _Project Explorer_ tab (inside of _Reports code_), you need to open _QRapids Data Adapters_ folder and update all **xml** files. Write the correct datasource url, especifing the connection to the corresponding [dashboard RESTful service](https://q-rapids.github.io/qrapids-dashboard/) providing the data you want to use in the report.
 
 ![data_adapters_configuration](https://user-images.githubusercontent.com/48628943/85123298-4e480480-b228-11ea-980c-a3f1e47a0d01.png)
 
@@ -47,4 +47,4 @@ For more information about dashboard configuration file consult [Configuration F
 
 * **Step 7**. The configuration is finished, so now you can generate reports on Q-Rapids Dashboard. 
 
-More information about how to use the reporting functionality from the dashboard is available in the[Reporting](https://github.com/q-rapids/qrapids-dashboard/wiki/Reporting) User Guide section.
+More information about how to use the reporting functionality from the dashboard is available in the [Reporting](https://github.com/q-rapids/qrapids-dashboard/wiki/Reporting) User Guide section.
