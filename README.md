@@ -2,7 +2,7 @@
 
 This repository contains some templates of Jaspersoft Reports, which can be used with a new reporting functionality of Q-Rapids Dashboard.
 
-A quick guide for generating new reports is available in [this reporistory wiki](https://github.com/q-rapids/qrapids-dashboard_reports/wiki).
+A **quick guide for generating new reports** is available in [this reporistory wiki](https://github.com/q-rapids/qrapids-dashboard_reports/wiki).
 
 ## Pre-requisites
 
